@@ -1,14 +1,13 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
 import ogd_map
 
 # https://icons.getbootstrap.com/?q=image
 menu_icons = ["house", "table", "graph-up", "chat-dots"]
 
-__version__ = "0.2.3"
+__version__ = "0.0.1"
 __author__ = "Lukas Calmbach"
 __author_email__ = "lcalmbach@gmail.com"
-VERSION_DATE = "2024-11-22"
+VERSION_DATE = "2024-11-26"
 APP_NAME = "ODS-Maps"
 GIT_REPO = "https://github.com/lcalmbach/ods-maps"
 
